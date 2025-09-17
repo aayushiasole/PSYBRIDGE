@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/psybridge/static/css/main.f855e6bc.css",
+    "main.js": "/psybridge/static/js/main.018172e4.js",
+    "static/js/453.670e15c7.chunk.js": "/psybridge/static/js/453.670e15c7.chunk.js",
+    "static/media/logo.svg": "/psybridge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/psybridge/index.html",
+    "main.f855e6bc.css.map": "/psybridge/static/css/main.f855e6bc.css.map",
+    "main.018172e4.js.map": "/psybridge/static/js/main.018172e4.js.map",
+    "453.670e15c7.chunk.js.map": "/psybridge/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.018172e4.js"
+  ]
+}
